@@ -11,7 +11,8 @@ The shader also includes a texture sample to avoid any compilation errors, but y
 
 ## OR Simply Copy this code to your Custom Lit Shader
 
-```Shader "Custom/HideFromUnderground" {
+```
+Shader "Custom/HideFromUnderground" {
 
     Properties{
         _MainTex("Texture", 2D) = "white" {}
