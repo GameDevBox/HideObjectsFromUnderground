@@ -1,6 +1,6 @@
 # HideObjectsFromUnderground
 Here's a shader for Unity that hides objects from underground (-Y)
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 
 # Setup 
