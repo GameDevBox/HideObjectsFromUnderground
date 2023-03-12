@@ -1,6 +1,8 @@
 # HideObjectsFromUnderground
 Here's a shader for Unity that hides objects from underground (-Y)
 
+
+
 # Setup 
 Download HideObjectsFromUnderground shader
 This shader uses a discard statement to discard fragments that have a world normal pointing downwards (-Y direction), effectively hiding objects from underground. You can adjust the condition to discard fragments based on other criteria as well.
