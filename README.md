@@ -72,3 +72,6 @@ Shader "Custom/HideFromUnderground" {
             FallBack "Diffuse"
 }
 ```
+
+## Tutorial: 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7WvWnpon4VY/0.jpg)](https://www.youtube.com/watch?v=7WvWnpon4VY)
